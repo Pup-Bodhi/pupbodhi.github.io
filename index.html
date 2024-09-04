@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Pup_Bodhi's Landing Page</title>
+</head>
+
+<body>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VPWWXR5NR5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-VPWWXR5NR5');
+    </script>
+    <script>
+        if (window.location.pathname === '/redirect') {
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            window.location.replace(`https://${urlParams.get('url')}`)
+        }
+        else window.location.replace('https://linktr.ee/pup_bodhi')
+    </script>
+</body>
+
+</html>
