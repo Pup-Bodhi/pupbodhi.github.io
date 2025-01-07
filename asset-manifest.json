@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07b6bb5e.css",
+    "main.js": "/static/js/main.81d0bffc.js",
+    "static/js/488.2d0cb500.chunk.js": "/static/js/488.2d0cb500.chunk.js",
+    "static/media/profile-photo.png": "/static/media/profile-photo.d74bc89ba34a262ca8b6.png",
+    "static/media/Inter-VariableFont_opsz,wght.ttf": "/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
+    "static/media/InterVariable-Italic.woff2": "/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/Oswald-VariableFont_wght.ttf": "/static/media/Oswald-VariableFont_wght.7cecd0da606d25b0905d.ttf",
+    "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/Urbanist-VariableFont_wght.ttf": "/static/media/Urbanist-VariableFont_wght.7209716a3a23e09247b8.ttf",
+    "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "static/media/Jocky Starline.ttf": "/static/media/Jocky Starline.cf00b630342a83469bb4.ttf",
+    "index.html": "/index.html",
+    "main.07b6bb5e.css.map": "/static/css/main.07b6bb5e.css.map",
+    "main.81d0bffc.js.map": "/static/js/main.81d0bffc.js.map",
+    "488.2d0cb500.chunk.js.map": "/static/js/488.2d0cb500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b6bb5e.css",
+    "static/js/main.81d0bffc.js"
+  ]
+}
